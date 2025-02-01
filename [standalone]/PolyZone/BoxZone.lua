@@ -1,5 +1,5 @@
 BoxZone = {}
--- Inherits from PolyZone test
+-- Inherits from PolyZone
 setmetatable(BoxZone, { __index = PolyZone })
 
 -- Utility functions
