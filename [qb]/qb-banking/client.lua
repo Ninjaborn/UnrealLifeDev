@@ -3,7 +3,7 @@ local zones = {}
 
 local isPlayerInsideBankZone = false
 
--- Functions
+-- Functions test
 
 local function OpenBank()
     QBCore.Functions.TriggerCallback('qb-banking:server:openBank', function(accounts, statements, playerData)
