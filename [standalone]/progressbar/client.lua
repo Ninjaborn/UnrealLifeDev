@@ -46,7 +46,7 @@ local controls = {
     disableCombat = { 24, 25, 37, 47, 58, 140, 141, 142, 143, 263, 264, 257 }
 }
 
--- Functions
+-- Functions test
 
 local function loadAnimDict(dict)
     RequestAnimDict(dict)
