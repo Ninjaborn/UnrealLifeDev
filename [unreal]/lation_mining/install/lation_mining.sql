@@ -1,5 +1,5 @@
 CREATE TABLE IF NOT EXISTS `lation_mining` (
-  `identifier` varchar(255) DEFAULT NULL,
+  `identifier` varchar(255) NOT NULL,
   `name` varchar(255) DEFAULT NULL,
   `level` int(11) NOT NULL DEFAULT 1,
   `exp` int(11) NOT NULL DEFAULT 0,
