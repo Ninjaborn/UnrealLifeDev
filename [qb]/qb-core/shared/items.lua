@@ -394,7 +394,7 @@ QBShared.Items = {
     ls_iron_ore = { name = 'ls_iron_ore', label = 'Iron Ore', weight = 100, type = 'item', image = 'ls_iron_ore.png', unique = false, useable = false, shouldClose = true, combinable = nil, description = nil },
     ls_silver_ore = { name = 'ls_silver_ore', label = 'Silver Ore', weight = 100, type = 'item', image = 'ls_silver_ore.png', unique = false, useable = false, shouldClose = true, combinable = nil, description = nil },
     ls_gold_ore = { name = 'ls_gold_ore', label = 'Gold Ore', weight = 100, type = 'item', image = 'ls_gold_ore.png', unique = false, useable = false, shouldClose = true, combinable = nil, description = nil },
-    ls_copper_ingot = { name = 'ls_copper_ingot', label = 'Copper Ingot', weight = 500, type = 'item', image = 'ls_copper_ingot.png', unique = false, useable = false, shouldClose = true, combinable = nil, description = nil },
+    ls_copper_ingot = { name = 'ls_copper_ingot', label = 'Copper Ingot', weight = 500, type = 'item', image = 'ls_copper_ignot.png', unique = false, useable = false, shouldClose = true, combinable = nil, description = nil },
     ls_iron_ingot = { name = 'ls_iron_ingot', label = 'Iron Ingot', weight = 500, type = 'item', image = 'ls_iron_ingot.png', unique = false, useable = false, shouldClose = true, combinable = nil, description = nil },
     ls_silver_ingot = { name = 'ls_silver_ingot', label = 'Silver Ingot', weight = 500, type = 'item', image = 'ls_silver_ingot.png', unique = false, useable = false, shouldClose = true, combinable = nil, description = nil },
     ls_gold_ingot = { name = 'ls_gold_ingot', label = 'Gold Ingot', weight = 500, type = 'item', image = 'ls_gold_ingot.png', unique = false, useable = false, shouldClose = true, combinable = nil, description = nil },
