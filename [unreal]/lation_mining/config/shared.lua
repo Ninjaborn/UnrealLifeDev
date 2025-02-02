@@ -26,7 +26,7 @@ return {
         -- Set your notification system below
         -- Available options are: 'ox_lib', 'esx', 'qb', 'okok', 'sd-notify', 'wasabi_notify' & 'custom'
         -- 'custom' needs to be added to client/functions.lua
-        notify = 'ox_lib',
+        notify = 'qb',
         -- Set your progress bar system below
         -- Available options are: 'ox_lib', 'qbcore' & 'custom'
         -- 'custom' needs to be added to client/functions.lua
