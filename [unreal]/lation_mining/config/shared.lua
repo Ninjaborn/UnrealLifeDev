@@ -22,7 +22,7 @@ return {
         -- Set your interaction system below
         -- Available options are: 'ox_target', 'qb-target', 'interact' & 'custom'
         -- 'custom' needs to be added to client/functions.lua
-        interact = 'ox_target',
+        interact = 'qb-target',
         -- Set your notification system below
         -- Available options are: 'ox_lib', 'esx', 'qb', 'okok', 'sd-notify', 'wasabi_notify' & 'custom'
         -- 'custom' needs to be added to client/functions.lua
@@ -31,7 +31,7 @@ return {
         -- Available options are: 'ox_lib', 'qbcore' & 'custom'
         -- 'custom' needs to be added to client/functions.lua
         -- Any custom progress bar must also support animations
-        progress = 'ox_lib',
+        progress = 'qbcore',
         -- Do you want to be notified via server console if an update is available?
         -- True if yes, false if no
         version = true,
