@@ -109,11 +109,11 @@ return {
                 -- metadata: optional metadata for item
                 -- metadata: ⚠️ use 'durability' if using ox_inventory, otherwise use 'quality'
                 -- level: optional player level requirement to purchase item
-                [1] = { item = 'ls_pickaxe', price = 150, icon = 'hammer', metadata = { ['durability'] = 100 }, level = 1 },
-                [2] = { item = 'ls_copper_pickaxe', price = 300, icon = 'hammer', metadata = { ['durability'] = 100 }, level = 2 },
-                [3] = { item = 'ls_iron_pickaxe', price = 750, icon = 'hammer', metadata = { ['durability'] = 100 }, level = 3 },
-                [4] = { item = 'ls_silver_pickaxe', price = 1500, icon = 'hammer', metadata = { ['durability'] = 100 }, level = 4 },
-                [5] = { item = 'ls_gold_pickaxe', price = 3000, icon = 'hammer', metadata = { ['durability'] = 100 }, level = 5 },
+                [1] = { item = 'ls_pickaxe', price = 150, icon = 'hammer', metadata = { ['quality'] = 100 }, level = 1 },
+                [2] = { item = 'ls_copper_pickaxe', price = 300, icon = 'hammer', metadata = { ['quality'] = 100 }, level = 2 },
+                [3] = { item = 'ls_iron_pickaxe', price = 750, icon = 'hammer', metadata = { ['quality'] = 100 }, level = 3 },
+                [4] = { item = 'ls_silver_pickaxe', price = 1500, icon = 'hammer', metadata = { ['quality'] = 100 }, level = 4 },
+                [5] = { item = 'ls_gold_pickaxe', price = 3000, icon = 'hammer', metadata = { ['quality'] = 100 }, level = 5 },
                 [6] = { item = 'water', price = 5, icon = 'droplet' },
                 [7] = { item = 'burger', price = 5, icon = 'burger' },
                 -- Add or remove items as you wish
