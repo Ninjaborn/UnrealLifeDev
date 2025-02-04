@@ -141,7 +141,7 @@ return {
         blip = {
             enable = true, -- Enable or disable the blip for this shop
             sprite = 618, -- Sprite ID (https://docs.fivem.net/docs/game-references/blips/)
-            color = 5, -- Color (https://docs.fivem.net/docs/game-references/blips/#blip-colors)
+            color = 3, -- Color (https://docs.fivem.net/docs/game-references/blips/#blip-colors)
             scale = 0.9, -- Size/scale
             label = 'The Mines' -- Label
         }
