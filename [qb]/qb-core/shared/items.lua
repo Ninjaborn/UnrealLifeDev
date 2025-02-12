@@ -398,10 +398,10 @@ QBShared.Items = {
     ls_iron_ingot                = { name = 'ls_iron_ingot', label = 'Iron Ingot', weight = 500, type = 'item', image = 'ls_iron_ingot.png', unique = false, useable = false, shouldClose = true, combinable = nil, description = nil },
     ls_silver_ingot              = { name = 'ls_silver_ingot', label = 'Silver Ingot', weight = 500, type = 'item', image = 'ls_silver_ingot.png', unique = false, useable = false, shouldClose = true, combinable = nil, description = nil },
     ls_gold_ingot                = { name = 'ls_gold_ingot', label = 'Gold Ingot', weight = 500, type = 'item', image = 'ls_gold_ingot.png', unique = false, useable = false, shouldClose = true, combinable = nil, description = nil },
-}
+
 
     --farming
-    corn_seed 							= {name = "corn_seed",  	     		label = "Corn Seed",	 		weight = 25, 		type = "item", 		image = "corn_seed.png", 				unique = false, 	useable = true, 	shouldClose = true,   	combinable = nil,   description = nil},
+    corn_seed 							= { name = "corn_seed",  	     		label = "Corn Seed",	 		weight = 25, 		type = "item", 		image = "corn_seed.png", 				unique = false, 	useable = true, 	shouldClose = true,   	combinable = nil,   description = nil},
     corn_raw 							= {name = "corn_raw",  	     		label = "Raw Corn",	 			    weight = 25, 		type = "item", 		image = "corn_raw.png", 				unique = false, 	useable = true, 	shouldClose = true,   	combinable = nil,   description = nil},
     corn 						  	    = {name = "corn",  	     			label = "Corn",	 			        weight = 25, 		type = "item", 		image = "corn.png", 					unique = false, 	useable = true, 	shouldClose = true,   	combinable = nil,   description = nil},
     tomato_seed 						= {name = "tomato_seed",  	     		label = "Tomato Seed",	 		weight = 25, 		type = "item", 		image = "tomato_seed.png", 				unique = false, 	useable = true, 	shouldClose = true,   	combinable = nil,   description = nil},
@@ -433,3 +433,4 @@ QBShared.Items = {
     heroin 							    = {name = "heroin",  	     		label = "Heroin",	 			    weight = 25, 		type = "item", 		image = "heroin.png", 				    unique = false, 	useable = true, 	shouldClose = true,   	combinable = nil,   description = nil},
     garden_pitcher 						= {name = "garden_pitcher",  	     	label = "Garden Pitcher",	 	weight = 25, 		type = "item", 		image = "garden_pitcher.png", 			unique = false, 	useable = true, 	shouldClose = true,   	combinable = nil,   description = nil},
     garden_shovel 						= {name = "garden_shovel",  	     	label = "Garden Shovel",	 	weight = 25, 		type = "item", 		image = "garden_shovel.png", 			unique = false, 	useable = true, 	shouldClose = true,   	combinable = nil,   description = nil},
+}
