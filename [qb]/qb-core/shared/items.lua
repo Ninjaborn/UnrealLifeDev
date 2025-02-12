@@ -433,4 +433,42 @@ QBShared.Items = {
     heroin 							    = {name = "heroin",  	     		label = "Heroin",	 			    weight = 25, 		type = "item", 		image = "heroin.png", 				    unique = false, 	useable = true, 	shouldClose = true,   	combinable = nil,   description = nil},
     garden_pitcher 						= {name = "garden_pitcher",  	     	label = "Garden Pitcher",	 	weight = 25, 		type = "item", 		image = "garden_pitcher.png", 			unique = false, 	useable = true, 	shouldClose = true,   	combinable = nil,   description = nil},
     garden_shovel 						= {name = "garden_shovel",  	     	label = "Garden Shovel",	 	weight = 25, 		type = "item", 		image = "garden_shovel.png", 			unique = false, 	useable = true, 	shouldClose = true,   	combinable = nil,   description = nil},
+
+    Valery-Z1
+    Valery-Z1 commented 2 weeks ago
+    Valery-Z1
+    2 weeks ago · edited by Valery-Z1
+    Author
+    updated item list:
+    QB-Core
+    
+    --- hunting
+    hide_shark              = { name = 'hide_shark', label = 'Shark Hide', weight = 1500, type = 'item', image = 'hide_shark.png', unique = false, useable = false, shouldClose = false, description = 'A intact Shark Hide. You should sell this.' },
+    hide_whale              = { name = 'hide_whale', label = 'Whale Hide', weight = 2000, type = 'item', image = 'hide_whale.png', unique = false, useable = false, shouldClose = false, description = 'A intact Whale Hide. You should sell this.' },
+    hide_dolphin            = { name = 'hide_dolphin', label = 'Dolphin Hide', weight = 1250, type = 'item', image = 'hide_dolphin.png', unique = false, useable = false, shouldClose = false, description = 'A intact Dolphin Hide. You should sell this.' },
+    hide_stingray           = { name = 'hide_stingray', label = 'Stingray Hide', weight = 850, type = 'item', image = 'hide_stingray.png', unique = false, useable = false, shouldClose = false, description = 'A intact Stingray Hide. You should sell this.' },
+    hide_boar               = { name = 'hide_boar', label = 'Boar Hide', weight = 1100, type = 'item', image = 'hide_boar.png', unique = false, useable = false, shouldClose = false, description = 'A intact Boar Hide. You should sell this.' },
+    hide_coyote             = { name = 'hide_coyote', label = 'Coyote Hide', weight = 800, type = 'item', image = 'hide_coyote.png', unique = false, useable = false, shouldClose = false, description = 'A intact Coyote Hide. You should sell this.' },
+    hide_deer               = { name = 'hide_deer', label = 'Deer Hide', weight = 500, type = 'item', image = 'hide_deer.png', unique = false, useable = false, shouldClose = false, description = 'A intact Deer Hide. You should sell this.' },
+    hide_mtlion             = { name = 'hide_mtlion', label = 'Mt Lion Hide', weight = 1000, type = 'item', image = 'hide_mtlion.png', unique = false, useable = false, shouldClose = false, description = 'A intact Mt Lion Hide. You should sell this.' },
+    hide_rabbit             = { name = 'hide_rabbit', label = 'Rabbit Hide', weight = 300, type = 'item', image = 'hide_rabbit.png', unique = false, useable = false, shouldClose = false, description = 'A intact Rabbit Hide. You should sell this.' },
+    hide_cow                = { name = 'hide_cow', label = 'Cow Hide', weight = 1300, type = 'item', image = 'hide_cow.png', unique = false, useable = false, shouldClose = false, description = 'A intact Cow Hide. You should sell this.' },
+    hide_rat                = { name = 'hide_rat', label = 'Rat Hide', weight = 300, type = 'item', image = 'hide_rat.png', unique = false, useable = false, shouldClose = false, description = 'A intact Rat Hide. You should sell this.' },
+    hide_pig                = { name = 'hide_pig', label = 'Pig Hide', weight = 1200, type = 'item', image = 'hide_pig.png', unique = false, useable = false, shouldClose = false, description = 'A intact Pig Hide. You should sell this.' },
+    
+    meat_shark              = { name = 'meat_shark', label = 'Shark Meat', weight = 900, type = 'item', image = 'meat_shark.png', unique = false, useable = false, shouldClose = false, description = 'A piece of Shark Meat. You should sell this.' },
+    meat_whale              = { name = 'meat_whale', label = 'Whale Meat', weight = 1200, type = 'item', image = 'meat_whale.png', unique = false, useable = false, shouldClose = false, description = 'A piece of Whale Meat. You should sell this.' },
+    meat_dolphin            = { name = 'meat_dolphin', label = 'Dolphin Meat', weight = 750, type = 'item', image = 'meat_dolphin.png', unique = false, useable = false, shouldClose = false, description = 'A piece of Dolphin Meat. You should sell this.' },
+    meat_stingray           = { name = 'meat_stingray', label = 'Stingray Meat', weight = 450, type = 'item', image = 'meat_stingray.png', unique = false, useable = false, shouldClose = false, description = 'A piece of Stingray Meat. You should sell this.' },
+    meat_boar               = { name = 'meat_boar', label = 'Boar Meat', weight = 600, type = 'item', image = 'meat_boar.png', unique = false, useable = false, shouldClose = false, description = 'A piece of Boar Meat. You should sell this.' },
+    meat_coyote             = { name = 'meat_coyote', label = 'Coyote Meat', weight = 500, type = 'item', image = 'meat_coyote.png', unique = false, useable = false, shouldClose = false, description = 'A piece of Coyote Meat. You should sell this.' },
+    meat_deer               = { name = 'meat_deer', label = 'Deer Meat', weight = 300, type = 'item', image = 'meat_deer.png', unique = false, useable = false, shouldClose = false, description = 'A piece of Deer Meat. You should sell this.' },
+    meat_mtlion             = { name = 'meat_mtlion', label = 'Mt Lion Meat', weight = 650, type = 'item', image = 'meat_mtlion.png', unique = false, useable = false, shouldClose = false, description = 'A piece of Mt Lion Meat. You should sell this.' },
+    meat_rabbit             = { name = 'meat_rabbit', label = 'Rabbit Meat', weight = 200, type = 'item', image = 'meat_rabbit.png', unique = false, useable = false, shouldClose = false, description = 'A piece of Rabbit Meat. You should sell this.' },
+    meat_cow                = { name = 'meat_cow', label = 'Cow Meat', weight = 800, type = 'item', image = 'meat_cow.png', unique = false, useable = false, shouldClose = false, description = 'A piece of Cow Meat. You should sell this.' },
+    meat_rat                = { name = 'meat_rat', label = 'Rat Meat', weight = 100, type = 'item', image = 'meat_rat.png', unique = false, useable = false, shouldClose = false, description = 'A piece of Rat Meat. You should sell this.' },
+    meat_chickenhawk        = { name = 'meat_chickenhawk', label = 'Chicken Hawk Meat', weight = 250, type = 'item', image = 'meat_chickenhawk.png', unique = false, useable = false, shouldClose = false, description = 'A piece of Chicken Hawk Meat. You should sell this.' },
+    meat_cormorant          = { name = 'meat_cormorant', label = 'Cormorant Meat', weight = 300, type = 'item', image = 'meat_cormorant.png', unique = false, useable = false, shouldClose = false, description = 'A piece of Cormorant Meat. You should sell this.' },
+    meat_chicken            = { name = 'meat_chicken', label = 'Chicken Meat', weight = 400, type = 'item', image = 'meat_chicken.png', unique = false, useable = false, shouldClose = false, description = 'A piece of Chicken Meat. You should sell this.' },
+    meat_pig                = { name = 'meat_pig', label = 'Pig Meat', weight = 700, type = 'item', image = 'meat_pig.png', unique = false, useable = false, shouldClose = false, description = 'A piece of Pig Meat. You should sell this.' },
 }
