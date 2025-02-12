@@ -433,14 +433,6 @@ QBShared.Items = {
     heroin 							    = {name = "heroin",  	     		label = "Heroin",	 			    weight = 25, 		type = "item", 		image = "heroin.png", 				    unique = false, 	useable = true, 	shouldClose = true,   	combinable = nil,   description = nil},
     garden_pitcher 						= {name = "garden_pitcher",  	     	label = "Garden Pitcher",	 	weight = 25, 		type = "item", 		image = "garden_pitcher.png", 			unique = false, 	useable = true, 	shouldClose = true,   	combinable = nil,   description = nil},
     garden_shovel 						= {name = "garden_shovel",  	     	label = "Garden Shovel",	 	weight = 25, 		type = "item", 		image = "garden_shovel.png", 			unique = false, 	useable = true, 	shouldClose = true,   	combinable = nil,   description = nil},
-
-    Valery-Z1
-    Valery-Z1 commented 2 weeks ago
-    Valery-Z1
-    2 weeks ago · edited by Valery-Z1
-    Author
-    updated item list:
-    QB-Core
     
     --- hunting
     hide_shark              = { name = 'hide_shark', label = 'Shark Hide', weight = 1500, type = 'item', image = 'hide_shark.png', unique = false, useable = false, shouldClose = false, description = 'A intact Shark Hide. You should sell this.' },
