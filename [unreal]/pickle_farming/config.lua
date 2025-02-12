@@ -12,7 +12,7 @@ Config.Plant = {
     PlantTime = 5, -- How long to plant the seed.
 
     WaterPostDelay = 0, -- Cooldown for Watering.
-    MaxPlayerPlants = 5, -- Maximum plants a player can grow at a time.
+    MaxPlayerPlants = 20, -- Maximum plants a player can grow at a time.
     RenderDistance = 30.0, -- Distance to render spawned plants.
 
     -- Don't change the below unless needed.
