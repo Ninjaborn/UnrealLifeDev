@@ -3,7 +3,7 @@ function GetExchangeItems(source, index)
     local exchange = {}
     for k,v in pairs(data.Catalog) do 
         local count = Search(source, k)
-        if (count > v.required and CanCarryItem(source, v.name, v.min)) then
+        if (count >= v.required and CanCarryItem(source, v.name, v.min)) then
             exchange[#exchange + 1] = {
                 remove = k,
                 required = v.required,
