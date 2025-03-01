@@ -463,4 +463,9 @@ QBShared.Items = {
     meat_cormorant          = { name = 'meat_cormorant', label = 'Cormorant Meat', weight = 300, type = 'item', image = 'meat_cormorant.png', unique = false, useable = false, shouldClose = false, description = 'A piece of Cormorant Meat. You should sell this.' },
     meat_chicken            = { name = 'meat_chicken', label = 'Chicken Meat', weight = 400, type = 'item', image = 'meat_chicken.png', unique = false, useable = false, shouldClose = false, description = 'A piece of Chicken Meat. You should sell this.' },
     meat_pig                = { name = 'meat_pig', label = 'Pig Meat', weight = 700, type = 'item', image = 'meat_pig.png', unique = false, useable = false, shouldClose = false, description = 'A piece of Pig Meat. You should sell this.' },
+
+    --- casino
+    casino_chip              = {name = "casino_chip",   label = "Betting Chips",       weight = 3,         type = "item",      image = "casino_chip.png",              unique = false,     useable = false,    shouldClose = false,   combinable = nil,   description = "Diamond Casino Chips"},
+    casino_member            = {name = "casino_member", label = "Member Card",         weight = 50,        type = "item",      image = "casino_member.png",            unique = true,      useable = false,    shouldClose = false,   combinable = nil,   description = "Diamond Casino Membership Card"},
+    casino_vip               = {name = "casino_vip",    label = "V.I.P Pass",          weight = 70,        type = "item",      image = "casino_vip.png",               unique = true,      useable = false,    shouldClose = false,   combinable = nil,   description = "Diamond Casino V.I.P ALL ACCESS Pass"},
 }
