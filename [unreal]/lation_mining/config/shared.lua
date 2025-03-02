@@ -217,7 +217,7 @@ return {
                 }
             },
             [3] = {
-                models = { 'prop_rock_3_b', 'prop_rock_3_d', 'prop_rock_3_f' },
+                models = { 'dl_tin_ore_01' },
                 level = 2,
                 duration = { min = 7500, max = 7500 },
                 reward = {
@@ -236,7 +236,7 @@ return {
                 }
             },
             [4] = {
-                models = { 'prop_rock_3_b', 'prop_rock_3_d', 'prop_rock_3_f' },
+                models = { 'dl_silver_ore_01' },
                 level = 3,
                 duration = { min = 7500, max = 7500 },
                 reward = {
@@ -253,7 +253,7 @@ return {
                 }
             },
             [5] = {
-                models = { 'prop_rock_3_b', 'prop_rock_3_d', 'prop_rock_3_f' },
+                models = { 'dl_gold_ore_01' },
                 level = 4,
                 duration = { min = 13000, max = 13000 },
                 reward = {
