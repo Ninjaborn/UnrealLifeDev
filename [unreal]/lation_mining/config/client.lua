@@ -11,7 +11,7 @@ return {
             useWhileDead = false,
             canCancel = true,
             disable = { car = true, move = true, combat = true },
-            anim = { dict = 'melee@hatchet@streamed_core', clip = 'plyr_rear_takedown_b', flag = 1 },
+            anim = { dict = 'melee@large_wpn@streamed_core', clip = 'ground_attack_on_spot', flag = 1 },
             prop = { bone = 28422, model = 'prop_tool_pickaxe', pos = vec3(0.09, -0.05, -0.02), rot = vec3(-78.0, 13.0, 28.0) }
         },
         smelting = {
