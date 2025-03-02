@@ -163,7 +163,7 @@ return {
             [1] = {
                 -- The models spawned in this area
                 -- You can use one or more models, it will select at random for each ore spawn
-                models = { 'prop_rock_3_b', 'prop_rock_3_d', 'prop_rock_3_f' },
+                models = { 'dl_copper_ore_01' },
                 -- What level must the player be to mine these?
                 level = 1,
                 -- How long it takes to mine these ores (in milliseconds)
